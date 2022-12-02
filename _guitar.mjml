@@ -1,0 +1,56 @@
+<mj-section direction="rtl">
+    <mj-column 
+        vertical-align="middle"
+        padding="20px"
+        width="60%"
+    >
+        <mj-text
+            mj-class="fs16"
+            line-height="30px"
+            letter-spacing="1px"
+            color="#393D47"
+        >BEST CHOICE</mj-text>
+        <mj-text
+            mj-class="fs30 brown bold"
+            line-height="45px"
+        >Acoustic Guitar D-230</mj-text>
+        <mj-text
+            mj-class="fs30 black"
+            padding-top="20px"
+            line-height="45px"
+        >$520</mj-text>
+        <mj-text
+            mj-class="fs16 black"
+            padding-top="15px"
+            line-height="30px"
+        >Aut fugit, sed quia consequuntur magni dolores eos qui ratione.</mj-text>
+        <mj-button
+            mj-class="fs16"
+            padding="10px 0"
+            align="left"
+            inner-padding="15px 25px"
+            border-radius="10px"
+            background-color="#BC2A45"
+            color="#FFFFFF"
+            line-height="32px"
+            letter-spacing="1px"
+            text-transform="uppercase"
+        >BUY NOW</mj-button>
+    </mj-column>
+
+    <mj-column 
+        vertical-align="middle"
+        width="40%"
+    >
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/labor-day-guitar__1_.png" 
+            alt="guitar image"
+            padding="10px" />
+    </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column>
+        <mj-spacer height="20px" />
+    </mj-column>
+</mj-section>

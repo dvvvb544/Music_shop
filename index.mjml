@@ -1,0 +1,52 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-title>Music Shop</mj-title>
+      
+      <mj-class name="center" align="center" />
+      <mj-preview>Preview Text</mj-preview>
+
+      <mj-class name="fs14" font-size="14px" />
+      <mj-class name="fs16" font-size="16px" />
+      <mj-class name="fs30" font-size="30px" />
+      <mj-class name="bold" font-weight="700" />
+
+      <mj-class name="black" color="#111111" />
+      <mj-class name="brown" color="#B97100" />
+      <mj-class name="white" color="#FFFFFF" />
+      
+      <mj-font name="Montserrat" href="https://fonts.cdnfonts.com/css/montserrat" />
+      <mj-all font-family="Montserrat, Arial" padding="0" />
+
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body width="640px" background-color="#F8EEE2">
+    
+    
+    <mj-include path="./_header.mjml" />
+
+    <mj-wrapper
+      background-color="#FFFFFF"
+    >
+      <mj-include path="./_categories.mjml" />
+      <mj-include path="./_guitar.mjml" />
+    </mj-wrapper>
+
+    <mj-include path="./_brands.mjml" />
+    <mj-include path="./_footer.mjml" />
+    
+    <mj-section
+      full-width="full-width"
+      background-color="#F8EEE2"
+    >
+      <mj-column>
+        <mj-spacer height="40px" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

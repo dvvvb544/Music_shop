@@ -1,0 +1,97 @@
+<mj-wrapper 
+    background-color="#442A00"
+    padding="0 15px"
+>
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="40px" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section direction="rtl">
+        <mj-column padding="20px 10px">
+            <mj-text
+                mj-class="fs14 white"
+                padding="5px 5px 15px 5px"
+                line-height="20px"
+                letter-spacing="1px"
+            >ABOUT</mj-text>
+            <mj-text
+                mj-class="fs14 white"
+                padding="5px 5px 15px 5px"
+                line-height="20px"
+                letter-spacing="1px"
+            >NEWS</mj-text>
+            <mj-text
+                mj-class="fs14 white"
+                padding="5px 5px 15px 5px"
+                line-height="20px"
+            >Unsubscribe</mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 10px">
+            <mj-text
+                mj-class="fs14 white"
+                padding="5px 5px 15px 5px"
+                line-height="20px"
+                letter-spacing="1px"
+            >PRIVACY POLICY</mj-text>
+            <mj-text
+                mj-class="fs14 white"
+                padding="5px 5px 15px 5px"
+                line-height="20px"
+                letter-spacing="1px"
+            >TERMS & CONDITIONS</mj-text>
+            <mj-text
+                mj-class="fs14 white"
+                padding="5px 5px 15px 5px"
+                line-height="20px"
+            >CONTACT US</mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 10px">
+            <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/logo-music-shop__2_.png" 
+                alt="logo image"
+                align="left"
+                width="173px" />
+            <mj-social padding="20px 0 10px" align="left">
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/facebook@2x.png"
+                    href="#"
+                    padding="0 5px 0 0"
+                    icon-size="32px"                
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/twitter@2x.png"
+                    href="#"
+                    padding="0 5px 0 0"
+                    icon-size="32px"
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/linkedin@2x.png"
+                    href="#"
+                    padding="0 5px 0 0"
+                    icon-size="32px"
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/instagram@2x.png"
+                    href="#"
+                    padding="0 5px 0 0"
+                    icon-size="32px"
+                ></mj-social-element>
+            </mj-social>
+            <mj-text
+                mj-class="fs16 white"
+                padding-top="10px"
+                line-height="20px"
+            >2022 © All rights reserved</mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="40px" />
+        </mj-column>
+    </mj-section>
+</mj-wrapper>

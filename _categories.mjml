@@ -1,0 +1,53 @@
+<mj-section padding="60px 25px 30px">
+    <mj-column>
+        <mj-text
+            mj-class="fs30 brown bold"
+            line-height="45px"
+        >Categories On Sale</mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column>
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/drums.png" 
+            alt="instrument image" />
+        <mj-text
+            mj-class="fs16 black center"
+            line-height="32px"
+        >DRUMS</mj-text>
+    </mj-column>
+    <mj-column>
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/piano.png" 
+            alt="instrument image" />
+        <mj-text
+            mj-class="fs16 black center"
+            line-height="32px"
+        >PIANOS</mj-text>
+    </mj-column>
+    <mj-column>
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/guitar.png" 
+            alt="instrument image" />
+        <mj-text
+            mj-class="fs16 black center"
+            line-height="32px"
+        >GUITARS</mj-text>
+    </mj-column>
+    <mj-column>
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/brass.png" 
+            alt="instrument image" />
+        <mj-text
+            mj-class="fs16 black center"
+            line-height="32px"
+        >BRASS</mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column>
+        <mj-spacer height="60px" />
+    </mj-column>
+</mj-section>

@@ -1,0 +1,40 @@
+<mj-wrapper
+    background-color="#B97100"
+    padding="60px 20px"
+>
+    <mj-section>
+        <mj-column>
+            <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/Guitar_Brand.png" 
+                alt="intrument brand"
+                width="178px"
+                padding="15px 5px" />
+        </mj-column>
+
+        <mj-column>
+            <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/Instruments_Brand.png" 
+                alt="intrument brand"
+                width="214px"
+                padding="15px 5px" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+            <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/Good_Pianos.png" 
+                alt="intrument brand"
+                width="164px"
+                padding="15px 5px" />
+        </mj-column>
+
+        <mj-column>
+            <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7356/Music_Brand.png" 
+                alt="intrument brand"
+                width="188px"
+                padding="15px 5px" />
+        </mj-column>
+    </mj-section>
+</mj-wrapper>
